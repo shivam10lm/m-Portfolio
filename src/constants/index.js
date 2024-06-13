@@ -171,7 +171,7 @@ export const projects = [
     name: "AI Movie Recommendation System",
     description:
       "Engineered a Python-based Movie Recommender System using ML algorithms on a dataset of 4,803 films, achieving a 92% accuracy in delivering personalized recommendations. Enhanced user experience by leveraging detailed genre and casting data.",
-    link: "https://mrs-x-5dad59272316.herokuapp.com/",
+    link: "https://movie-recommendation-system-xtz3bxlfty27cbxaurnagu.streamlit.app/",
   },
 
   {
