@@ -138,7 +138,7 @@ export const experiences = [
     company_name: "Rubodex Herbal Private Limited",
     icon: rubodex,
     iconBg: "#fff",
-    date: "April 2020 - July 2020",
+    date: "April 2020 - Dec 2020",
     points: [
       "Engineered and deployed a robust payment gateway, boosting online sales by 50% through streamlined transaction processes using Stripe API |Optimized the e-commerce store's speed statistic & boosted its Google score to 90+.",
       "Developed a custom WhatsApp API for real-time order notifications, enhancing customer engagement by 20% and optimizing the order tracking system.",
