@@ -179,8 +179,8 @@ export const projects = [
     theme: "btn-back-green",
     name: "AI Image Generation Application",
     description:
-      "Deployed and designed a full-stack MERN AI image generation app that can generate images from text input.",
-    link: "https://github.com/shivam10lm/dall-e",
+      "Designed and deployed a full-stack web application with Next.js, TypeScript, and MongoDB implementing user management, image transformations, search, and a credit system. Integrated Stripe for payments and used Cloudinary's AI to reduce image handling time by 40%.",
+    link: "https://imaginify-sigma-sandy.vercel.app",
   },
   {
     iconUrl: car,
