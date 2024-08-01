@@ -165,6 +165,14 @@ export const socialLinks = [
 ];
 
 export const projects = [
+   {
+    iconUrl: pricewise,
+    theme: "btn-back-red",
+    name: "Llama 3.1 Chatbot",
+    description:
+      "Introducing our advanced chatbot, powered by Facebook's Llama 3.1. This state-of-the-art chatbot delivers accurate, context-aware responses through an intuitive interface developed with Python and Gradio.",
+    link: "https://huggingface.co/spaces/Shivam10lm/LlamaChatBot",
+  },
   {
     iconUrl: summiz,
     theme: "btn-back-yellow",
@@ -206,12 +214,5 @@ export const projects = [
       "Engineered an interactive weather application using React, implementing features for real-time weather data retrieval based on user-input location names, enhancing user experience through efficient search functionality and responsive design.",
     link: "https://3rshpn.csb.app/",
   },
-  {
-    iconUrl: pricewise,
-    theme: "btn-back-red",
-    name: "Online SIN Generation System",
-    description:
-      "Developed a web application for Canadian citizens and immigrants to obtain their SIN online with integrated JWT authentication, reducing waiting times by 3 hours.",
-    link: "https://github.com/jaykanabar31/seng696_fall_2022_group4_Online_SIN_Generator",
-  },
+
 ];
