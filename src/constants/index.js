@@ -168,10 +168,10 @@ export const projects = [
    {
     iconUrl: pricewise,
     theme: "btn-back-red",
-    name: "Llama 3.1 Chatbot",
+    name: "Cold Email Generator Chatbot",
     description:
-      "Introducing our advanced chatbot, powered by Facebook's Llama 3.1. This state-of-the-art chatbot delivers accurate, context-aware responses through an intuitive interface developed with Python and Gradio.",
-    link: "https://huggingface.co/spaces/Shivam10lm/LlamaChatBot",
+      "Developed an end-to-end LLM-powered cold email generator using Llama 3.1, Vector Database(ChromaDB), LangChain, and Streamlit, designed to help software and AI services companies craft and send personalized cold emails to potential clients through an intuitive and efficient interface.",
+    link: "https://huggingface.co/spaces/Shivam10lm/ColdEmail",
   },
   {
     iconUrl: summiz,
