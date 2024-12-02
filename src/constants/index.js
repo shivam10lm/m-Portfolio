@@ -117,8 +117,8 @@ export const experiences = [
     iconBg: "#fff",
     date: "Jan 2024 - April 2024",
     points: [
-      "Coordinated technical workshops as a Teaching Assistant for over 100 students, enhancing their skills in modern web frameworks and RESTful API integration, while fostering a collaborative learning environment.",
-      "Mentored 10+ students in best practices for front-end and back-end development, focusing on secure, scalable, and maintainable code",
+      "Coordinated technical workshops as a Teaching Assistant for over 100 students, enhancing their skills in modern web frameworks, SOLID principles and Agile Software Lifecycle(SCRUM, Kanban).",
+      "•	Mentored over 10 students in front-end and back-end development, emphasizing secure, scalable, and maintainable code, while also imparting UI/UX design and implementation to ensure a seamless user experience.",
     ],
   },
   {
@@ -128,9 +128,11 @@ export const experiences = [
     iconBg: "#fff",
     date: "Aug 2021 - July 2022",
     points: [
-      "Spearheaded the development of cross-browser web applications for the Indian Air Force, achieving a 95% user satisfaction rate by implementing efficient code and robust data structures.",
-      "Enhanced the performance of web applications by integrating advanced Node.js packages, achieving a 25% reduction in load times and markedly improving the end-user experience.",
-      "Adapted and integrated new technologies such as Docker and Kubernetes into existing systems, reducing deployment times by 30% and demonstrating flexibility and continuous learning in a dynamic technological landscape.",
+      "Collaborated on the development of cross-browser web applications for the Indian Air Force using React, driving a 95% user satisfaction rate by optimizing performance through efficient algorithms and scalable data structures.",
+      "Optimized the performance and responsiveness of web applications by leveraging React features like code splitting and memoization, resulting in a 25% improvement in load times.",
+      "Optimized SQL Server queries, improving data retrieval efficiency by 15% & enhancing overall application performance.",
+      "Conducted thorough unit testing across multiple modules using Jest, improved code quality, reducing production bugs by 40%.",
+      "Adapted and integrated Docker into existing systems, incorporating CI/CD pipelines to streamline the deployment process, resulting in a 30% reduction in deployment times."
     ],
   },
   {
