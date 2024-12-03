@@ -118,7 +118,7 @@ export const experiences = [
     date: "Jan 2024 - April 2024",
     points: [
       "Coordinated technical workshops as a Teaching Assistant for over 100 students, enhancing their skills in modern web frameworks, SOLID principles and Agile Software Lifecycle(SCRUM, Kanban).",
-      "•	Mentored over 10 students in front-end and back-end development, emphasizing secure, scalable, and maintainable code, while also imparting UI/UX design and implementation to ensure a seamless user experience.",
+      "Mentored over 10 students in front-end and back-end development, emphasizing secure, scalable, and maintainable code, while also imparting UI/UX design and implementation to ensure a seamless user experience.",
     ],
   },
   {
