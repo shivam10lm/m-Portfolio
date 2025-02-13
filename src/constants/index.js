@@ -1,4 +1,4 @@
-import { ucal, wipro, rubodex } from "../assets/images";
+import { ucal, wipro, rubodex, reskill, tcAlberta } from "../assets/images";
 import {
   car,
   contact,
@@ -114,7 +114,7 @@ export const experiences = [
     {
     title: "Software Developer",
     company_name: "Tech Connect Alberta",
-    icon: ucal,
+    icon: tcAlberta,
     iconBg: "#fff",
     date: "Nov 2024 - Present",
     points: [
@@ -128,7 +128,7 @@ export const experiences = [
     {
     title: "Backend Developer Internship",
     company_name: "Reskill Calgary",
-    icon: ucal,
+    icon: reskill,
     iconBg: "#fff",
     date: "Nov 2024 - Feb 2025",
     points: [
