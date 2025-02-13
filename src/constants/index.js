@@ -126,7 +126,7 @@ export const experiences = [
   },
 
     {
-    title: "Backend Developer Internship",
+    title: "Software Developer Internship",
     company_name: "Reskill Calgary",
     icon: reskill,
     iconBg: "#fff",
