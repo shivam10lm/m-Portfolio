@@ -110,6 +110,34 @@ export const skills = [
 ];
 
 export const experiences = [
+
+    {
+    title: "Software Developer",
+    company_name: "Tech Connect Alberta",
+    icon: ucal,
+    iconBg: "#fff",
+    date: "Nov 2024 - Present",
+    points: [
+      "Architected a dynamic mentorship platform with Next.js, TypeScript, Tailwind, and NextAuth.js, delivering seamless real-time mentor discovery and secure authentication.",
+      "Implemented a robust backend system using PostgreSQL and Prisma ORM, streamlining data handling for mentor profiles, advanced search filters, and seamless booking workflows.",
+      "Integrated RESTful APIs to enhance scalability, maintainability, and efficient communication with front-end services.",
+"Enhanced application efficiency by implementing Zustand for streamlined global state management & scalable performance.",
+    ],
+  },
+
+    {
+    title: "Backend Developer Internship",
+    company_name: "Reskill Calgary",
+    icon: ucal,
+    iconBg: "#fff",
+    date: "Nov 2024 - Feb 2025",
+    points: [
+      "Developed and optimized the backend of Reskill Calgary using Express.js and PostgreSQL, ensuring efficient data handling and seamless user interactions.",
+      " Implemented backend functionality for a newsletter system and a 'Send Me a Message' feature, enabling automated email subscriptions and direct user inquiries.",
+    ],
+  },
+
+  
   {
     title: "Teaching Assistant - Full Stack Web Development",
     company_name: "University of Calgary",
@@ -128,22 +156,23 @@ export const experiences = [
     iconBg: "#fff",
     date: "Aug 2021 - July 2022",
     points: [
-      "Collaborated on the development of cross-browser web applications for the Indian Air Force using React, driving a 95% user satisfaction rate by optimizing performance through efficient algorithms and scalable data structures.",
-      "Optimized the performance and responsiveness of web applications by leveraging React features like code splitting and memoization, resulting in a 25% improvement in load times.",
-      "Optimized SQL Server queries, improving data retrieval efficiency by 15% & enhancing overall application performance.",
-      "Conducted thorough unit testing across multiple modules using Jest, improved code quality, reducing production bugs by 40%.",
-      "Adapted and integrated Docker into existing systems, incorporating CI/CD pipelines to streamline the deployment process, resulting in a 30% reduction in deployment times."
+"Collaborated on the development of cross-browser web applications for the Indian Air Force using React, TypeScript, and Redux, achieving a 95% user satisfaction rate by optimizing performance and ensuring scalable architecture.",
+"Optimized the performance and responsiveness of web applications by leveraging React features like code splitting and memoization, resulting in a 25% improvement in load times.",
+"Conducted thorough unit testing across multiple modules using Jest, improved code quality, reducing production bugs by 40%.",
+"Optimized SQL Server queries, improving data retrieval efficiency by 15% & enhancing overall application performance.",
+"Adapted and integrated Docker into existing systems, incorporating CI/CD pipelines to streamline the deployment process, resulting in a 30% reduction in deployment times.",
     ],
   },
   {
-    title: "Junior Developer Intern",
+    title: "Junior Software Developer",
     company_name: "Rubodex Herbal Private Limited",
     icon: rubodex,
     iconBg: "#fff",
     date: "April 2020 - Dec 2020",
     points: [
-      "Engineered and deployed a robust payment gateway, boosting online sales by 50% through streamlined transaction processes using Stripe API |Optimized the e-commerce store's speed statistic & boosted its Google score to 90+.",
-      "Developed a custom WhatsApp API for real-time order notifications, enhancing customer engagement by 20% and optimizing the order tracking system.",
+      "Engineered and deployed a full-stack e-commerce platform using React, Express, and MySQL, optimizing transaction processes and driving a 50% increase in online sales.",
+      "Enhanced backend performance by optimizing Express API endpoints and refining MySQL database queries, achieving a 40% reduction in response times and delivering a seamless user experience.",
+"Developed and integrated a custom WhatsApp API for real-time order notifications, providing customers with instant purchase and shipping updates, which led to a 20% boost in customer engagement.",
     ],
   },
 ];
