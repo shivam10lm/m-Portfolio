@@ -132,8 +132,8 @@ export const experiences = [
     iconBg: "#fff",
     date: "Nov 2024 - Feb 2025",
     points: [
-      "Developed and optimized the backend of Reskill Calgary using Express.js and PostgreSQL, ensuring efficient data handling and seamless user interactions.",
-      " Implemented backend functionality for a newsletter system and a 'Send Me a Message' feature, enabling automated email subscriptions and direct user inquiries.",
+      "Transitioned from WordPress to Express and PostgreSQL, improving performance and scalability for a more robust solution.",
+      "Migrated website to React with ShadCN and Tailwind CSS, delivering a modern, responsive UI that enhanced user experience and design flexibility.",
     ],
   },
 
