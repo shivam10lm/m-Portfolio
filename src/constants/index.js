@@ -1,4 +1,4 @@
-import { ucal, wipro, rubodex, reskill, tcAlberta } from "../assets/images";
+import { ucal, wipro, rubodex, reskill, tcAlberta, alpaca } from "../assets/images";
 import {
   car,
   contact,
@@ -113,7 +113,7 @@ export const experiences = [
       {
     title: "Junior Full Stack Developer",
     company_name: "Alpaca Systems Ltd.",
-    icon: tcAlberta,
+    icon: alpaca,
     iconBg: "#fff",
     date: "Mar 2025 - Present",
     points: [
