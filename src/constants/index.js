@@ -110,13 +110,28 @@ export const skills = [
 ];
 
 export const experiences = [
+      {
+    title: "Junior Full Stack Developer",
+    company_name: "Alpaca Systems Ltd.",
+    icon: tcAlberta,
+    iconBg: "#fff",
+    date: "Mar 2025 - Present",
+    points: [
+      "Engineered and maintained multiple React frontend applications within Polar Bear Suite, integrating Microsoft Business Central to deliver real-time inventory, quoting, invoicing, and production data to over 100 on-site warehouse and manufacturing staff, improving operational efficiency by 30%.",
+      "Utilized AI-powered development tooling (GitHub Copilot, Claude Code) to automate repetitive coding tasks, enhance code review quality, and accelerate delivery cycles across a multi-module enterprise platform.",
+      "Architected and optimized Express.js APIs and PostgreSQL databases supporting field tickets, incident reporting, and form builders utilizing Claude Code for query optimization & test generation, improving query performance by 40%.",
+"Reverse-engineered third-party geological website graphs to extract and scrape underlying data, built transformation pipelines to structure and load it into PostgreSQL, enabling the Power BI developer to build production reporting dashboards across inventory and operations.",
+      "Leveraged existing Jenkins CI/CD pipelines to automate build, test, and deployment workflows, reducing deployment time by 35% and ensuring near-zero downtime during weekly releases.",
+"Migrated and restructured document storage from SharePoint to AWS S3, implementing S3 endpoints to streamline data access, reducing document retrieval time by 30% and improving scalability by reducing dependency on legacy file management infrastructure."
+    ],
+  },
 
     {
-    title: "Software Developer",
+    title: "Full Stack Developer",
     company_name: "Tech Connect Alberta",
     icon: tcAlberta,
     iconBg: "#fff",
-    date: "Nov 2024 - Present",
+    date: "Nov 2024 - Mar 2025",
     points: [
       "Architected a dynamic mentorship platform with Next.js, TypeScript, Tailwind, and NextAuth.js, delivering seamless real-time mentor discovery and secure authentication.",
       "Implemented a robust backend system using PostgreSQL and Prisma ORM, streamlining data handling for mentor profiles, advanced search filters, and seamless booking workflows.",
